@@ -1,0 +1,5 @@
+git init
+git add .
+git remote add origin https://github.com/IzarO3O/ariketa2.git
+git commit -m "commit"
+git push origin master
