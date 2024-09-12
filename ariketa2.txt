@@ -1,0 +1,13 @@
+git init
+git add .
+git status
+git remote add origin https://github.com/IzarO3O/ariketa2.git
+git commit -m "commit"
+git push origin master
+git status
+(aldaketa batzuk)
+git add .
+git status 
+git commit -m "txarto"
+git push origin master
+git reset --soft HEAD~1
